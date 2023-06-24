@@ -1,3 +1,4 @@
+# Hearing The Silence
 Sign language translator website for ISL - 
 
 Implemented an web application that aims to enhance and improve the experience of communication for the hearing impaired people as well as the people without hearing difficulties.  
